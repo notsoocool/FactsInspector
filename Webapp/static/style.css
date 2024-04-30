@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.home {
+    background-color: red;
+    min-height: 100vh;
+    width: 100vw;
+}
+
+#container {
+    width: 90%;
+    max-width: 1100px;
+    margin:auto;
+}
